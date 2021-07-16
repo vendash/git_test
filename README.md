@@ -1,0 +1,1 @@
+This is Gabor's first git project!
